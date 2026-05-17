@@ -224,9 +224,10 @@ TOTAL acumulado:        €718.69
 | Item | Especificación | Cantidad | Precio Unit | Total | Link/Proveedor |
 |------|----------------|----------|-------------|-------|----------------|
 | **Compute** |
-| Jetson Orin Nano 8GB | Dev kit, con carrier | 1 | €499 | €499 | NVIDIA oficial |
-| MicroSD 128GB | U3, A2, SanDisk Extreme | 1 | €18 | €18 | Para Jetson OS |
-| Jetson heatsink + fan | Oficial, 40mm 5V | 1 | €15 | €15 | Cooling |
+| Jetson Orin Nano 8GB | Developer Kit (con carrier) | 1 | €460 | €460 | NVIDIA oficial |
+| MicroSD 128GB | U3, A2, SanDisk Extreme | 1 | €17 | €17 | Para Jetson OS |
+| Power supply 5V 4A | Universal 100-240V, barrel jack | 1 | €12 | €12 | Solo setup inicial |
+| Jetson heatsink + fan | Oficial, 40mm 5V | 1 | €14 | €14 | Cooling |
 | **Cámaras** |
 | IMX219 Camera 8MP | CSI, 160° FOV | 1 | €20 | €20 | AI/SLAM |
 | FPV Camera 700TVL | Analog, CMOS, 2.8mm lens | 1 | €8 | €8 | Piloting |
